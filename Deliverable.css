@@ -1,0 +1,30 @@
+.logo{ align-items: center;}
+.header{
+    text-align: center;
+    color: pink;background-color: antiquewhite;
+}
+.headshot{
+    text-align: center;
+    color: pink;background-color: antiquewhite;
+}
+.aboutme{
+    color: plum;background-color: peachpuff;
+    font-family:fantasy;
+}
+.linkedin{
+    position:absolute;
+    top:8px;right:16px;
+
+}
+.mymelody{
+    border-style: inherit;
+    text-align: right;
+    color: rgb(255, 30, 67);background-color: peachpuff;
+}
+.bunny{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ 
+}
